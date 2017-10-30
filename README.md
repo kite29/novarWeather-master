@@ -12,3 +12,6 @@ using Jackson for parsing json data.
 Changes:
 1, change to XML,
 2, fix compile j2se -1.5 problem
+
+
+note: only tested by 3.8.111 version
