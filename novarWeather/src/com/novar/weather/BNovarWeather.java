@@ -686,7 +686,7 @@ public class BNovarWeather
     // SimpleDateFormat format2 = new SimpleDateFormat ("yyyy-MM-dd HH:mm:ss");
 
     // Baidu weather API
-    // http://api.map.baidu.com/telematics/v3/weather?location=%E5%8C%97%E4%BA%AC&output=json&ak=DTHvg4xD3HGjwShqp9sWtR8zlDkrdUCw
+    // http://api.map.baidu.com/telematics/v3/weather?location=%E5%8C%97%E4%BA%AC&output=json&ak=***************
     DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
 
     // use Baidu APPCODE
