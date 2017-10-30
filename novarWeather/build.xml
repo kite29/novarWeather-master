@@ -1,0 +1,26 @@
+<!-- Module Build File -->
+
+<module
+  name = "novarWeather"
+  bajaVersion = "0"
+  preferredSymbol = "nw"
+  description = "weather query"
+  vendor = "NovarChina"
+  edition="j2se-5.0"
+>
+
+  <!-- Dependencies -->
+  <dependency name="baja" vendor="Tridium" vendorVersion="3.0" />
+
+
+
+
+
+
+
+ <!-- Packages -->
+  <package name="com.novar.weather" />
+
+
+
+</module>

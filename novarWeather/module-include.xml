@@ -1,0 +1,9 @@
+<!-- Module Include File -->
+
+<!-- Types -->
+<types>
+
+  <type name="NovarWeather" class="com.novar.weather.BNovarWeather"/>
+
+
+</types>

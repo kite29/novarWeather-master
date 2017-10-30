@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bajaObjectGraph version="1.0">
+<p  m="b=baja" t="b:Folder">
+ <!-- /novarWeather -->
+ <p n="novarWeather"  m="nw=novarWeather" t="nw:NovarWeather">
+  </p>
+
+</p>
+</bajaObjectGraph>
