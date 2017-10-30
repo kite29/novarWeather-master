@@ -4,7 +4,7 @@ This is a json vs java / niagara ax pratice project.
 
 it is an Application for querring weather data from baidu weather api.
 http://api.map.baidu.com/telematics/v3/weather?location={city}&output=json&ak={appcode}
-
+at the first , you must apply a baidu account.http://lbsyun.baidu.com/apiconsole/quota
 using Jackson for parsing json data.
 
 
